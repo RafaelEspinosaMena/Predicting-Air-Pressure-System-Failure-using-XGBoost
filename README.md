@@ -6,3 +6,5 @@ The project then delves into feature selection and engineering, applying methods
 One of the highlights is the use of advanced techniques such as SMOTE for handling imbalanced datasets and hyperparameter tuning using GridSearchCV for optimizing model performance. The notebook concludes with a thorough analysis of results, demonstrating the application of machine learning in solving complex data-driven problems.
 
 ## Results
+
+The models, in combination with the SMOTE class balancing procedure, achieved a final classification accuracy of 100%.
